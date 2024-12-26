@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9daddef8690de4742ba56f4cbb4df6e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - master: {fileID: 2739486391619409350, guid: a43b6aff3f7d54be89c339eabc7084be, type: 3}
+  - sesSlider: {fileID: 7410030415204840619, guid: 32383cdabe5dc44db9c68d36d7d739c0, type: 3}
+  - bgmsliSlider: {fileID: 3669679271851254647, guid: 584629a4e6bdd4657bc635f321eba9a4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
